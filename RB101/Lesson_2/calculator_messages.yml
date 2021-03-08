@@ -1,0 +1,18 @@
+en:
+  welcome: "Welcome. I am Mr.Calculator. I calculate. Enter your name:"
+  valid_name: "Make sure to give me a name"
+  first_number: "What's that first number, sonny?"
+  wrong_number: "Hmm, that ain't a valid number, LITTLE BOY"
+  second_number: "What's that there second number, sonny?"
+  choose_number: "Must choose 1, 2 , 3, or 4"
+  another: "Do you want to perform another calculation? (Y to calculate again)"
+  thanks: "Thanks for using the calculator, homie"
+es:
+  welcome: "Bienvenidos. Soy el señor calculador. Yo calculo. Introduzca su nombre:"
+  valid_name: "Asegúrate de darme un nombre"
+  first_number: "¿Cuál es ese primer número, hijo?"
+  wrong_number: "Hmm, ese no es un número válido, NIÑO"
+  second_number: "¿Qué es ese segundo número, hijo?"
+  choose_number: "Debe elegir 1, 2, 3 o 4"
+  another: "¿Quieres realizar otro cálculo? (Y para calcular de nuevo)"
+  thanks: "Gracias por usar la calculadora, amigo"
