@@ -10,6 +10,7 @@
 
 #     Repetition of numbers in the list could occur .
 
+
 #     The newer list's sum should equal the closest prime number .
 
 # Input >> Output Examples

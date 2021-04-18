@@ -1,3 +1,7 @@
+#Given this string, each '#' marks a backspace on the previous letter. 'Clean' the string
+#by removing every '#' and the letter preceding it.
+
+
 def clean_string(str)
   result = []
   chars = str.chars
